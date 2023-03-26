@@ -1,0 +1,16 @@
+Barrier.cs.meta
+ButtonClick.cs.meta
+CameraMove.cs.meta
+Coin.cs.meta
+CoinManager.cs.meta
+FinishTrigger.cs.meta
+GameManager.cs.meta
+Gate.cs.meta
+GateAppearaence.cs.meta
+PlayerBehaviour.cs.meta
+PlayerModifier.cs.meta
+PlayerMove.cs.meta
+PreFinishBehaviour.cs.meta
+PreFinishTrigger.cs.meta
+Progress.cs.meta
+Shop.cs.meta
